@@ -1,0 +1,36 @@
+.inputs {
+  .inputsContainer {
+    min-width: 50rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    form{
+        min-width: 50rem;
+        line-height: 2;
+        span {
+          
+            width: 100%;
+            p{
+                font-size: 2rem;
+                
+            }
+            input{
+                width: 100%;
+                font-size: 2rem;
+            }
+            button{
+                background-color: gray;
+                padding:1% 3%;
+                border: none;
+                outline: none;
+                color: white;
+                border-radius: 10px;
+                margin-top: 1%;
+                font-size: 1.5rem;
+            }
+          }
+    }
+  }
+}

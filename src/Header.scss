@@ -5,7 +5,9 @@
 }
 
 header {
+  min-width: 50rem;
     .headerContainer {
+      width: 100%;
       background-color: gray;
     padding: 2%;
     display: flex;
@@ -23,6 +25,7 @@ header {
       display: flex;
       justify-content: space-between;
       align-items: center;
+      font-size: 1.2rem;
       cursor: pointer;
     }
 
@@ -39,6 +42,7 @@ header {
       ul {
         line-height: 3;
         list-style: decimal;
+        font-size: 1.2rem;
       }
     }
     
