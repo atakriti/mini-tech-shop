@@ -101,19 +101,19 @@ function Products() {
           <form onSubmit={handleSubmit}>
             <span>
               <p>Items name</p>
-              <input type="text"  onChange={handleChange} value={values.productName} name="productName" />
+              <input type="text"  onChange={handleChange} required value={values.productName} name="productName" />
             </span>
          
 
             <span>
               <p>Image Link</p>
-                          <input type="text"onChange={handleChange } value={ values.photo} name="photo"/>
+                          <input type="text"onChange={handleChange } required value={ values.photo} name="photo"/>
             </span>
          
          
             <span>
               <p>Price</p>
-              <input type="text"  value={ values.price} onChange={handleChange}  name="price"  />
+              <input type="text"  value={ values.price} required onChange={handleChange}  name="price"  />
               <button>Add</button>
             </span>
           </form>
