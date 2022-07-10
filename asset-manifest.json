@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mini-tech-shop/static/css/main.1c8b05b7.css",
+    "main.css": "/mini-tech-shop/static/css/main.477a1d95.css",
     "main.js": "/mini-tech-shop/static/js/main.d288139d.js",
     "index.html": "/mini-tech-shop/index.html",
-    "main.1c8b05b7.css.map": "/mini-tech-shop/static/css/main.1c8b05b7.css.map",
+    "main.477a1d95.css.map": "/mini-tech-shop/static/css/main.477a1d95.css.map",
     "main.d288139d.js.map": "/mini-tech-shop/static/js/main.d288139d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c8b05b7.css",
+    "static/css/main.477a1d95.css",
     "static/js/main.d288139d.js"
   ]
 }
